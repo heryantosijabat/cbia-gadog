@@ -5,6 +5,10 @@ description = "A simple Streamlit app template."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "altair",
+    "numpy",
+    "orange3",
+    "pandas",
     "streamlit>=1.61.1",
 ]
 
